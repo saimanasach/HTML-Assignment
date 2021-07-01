@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aassignment 2</title>
+    <link rel="shortcut icon" href="Stamp.png" type="image/x-icon">
+    <link rel="stylesheet" href="soumya style.css">
+    <style>
+        h2{
+            color: rgba(236, 229, 229, 0.979);
+        }
+    </style>
+</head>
+<body background="20.jpg">
+    <div class="qq">
+    <h1 align="middle" style="color: rgb(187, 56, 4);"><font size="10">Assignment 2</font></h1></div>
+    <hr width="237"> 
+    <br>
+    <div class="ee">
+    <h1 align="middle" style="color: rgb(8, 76, 202);"><font face="sans serif" size="7">To create three 'p' Tags using CSS</font></h1></div>
+    <hr width="753">
+    <br>
+    <br>
+    <div class="ww">
+        <h2><font size="6">What is Graphics design?</font></h2>
+        <p class="hy"><font size="5">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Graphic design is a craft where professionals create visual content to communicate messages. By applying visual hierarchy and page layout techniques, designers use typography and pictures to meet users' specific needs and focus on the logic of displaying elements in interactive designs, to optimize the user experience.Graphic design is a craft where professionals create visual content to communicate messages. By applying visual hierarchy and page layout techniques.Graphic design is the profession and academic discipline whose activity consists in projecting visual communications intended to transmit specific messages to social groups, with specific objectives.</font></p>
+        <br>
+        <br>
+        <h2><font size="6">What is Video Edting?</font></h2>
+        <p class="hlo"><font size="5">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Video Editing or Non-Linear Video Editing is the process of taking video that is raw, meaning untouched or newly recorded, and taking away clips of that video that are not necessary to your story or point of the video. This taking away of footage is called cutting.Video editing is the manipulation and arrangement of video shots. Video editing is used to structure and present all video information, including films and television shows, video advertisements and video essays.Video editing is the process of manipulating and rearranging video shots to create a new work. Editing is usually considered to be one part of the post production.</font></p>
+        <br>
+        <br>
+        <h2><font size="6">What is investing?</font></h2>
+        <p class="namaste"><font size="5">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Investing is a way to potentially increase the amount of money you have. The goal is to buy financial products, also called investments, and hopefully sell them at a higher price than what you initially paid. Investments are things like stocks, bonds, mutual funds and annuities.An investment is a purchase that is completed with money that has the potential to produce income or a profit. Things that naturally lose value over time and with use are not investments. Investing is the act of putting forth capital with the expectation of income or profit.Investing is the allocation of money.</font></p>
+    </div>
+    <br>
+    <br>
+<footer>
+    <p align="right"><font size="3"><a href="#">&copy;theworldofsoumya1923</a></font></p>
+</footer>
+</body>
+</html> 
